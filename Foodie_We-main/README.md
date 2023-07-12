@@ -11,9 +11,6 @@ Some Demo Images :
 <img width="960" alt="git4" src="https://user-images.githubusercontent.com/93420193/172604126-153b4dd8-f255-4ca7-8c92-77b5498eb8b1.png">
 <img width="960" alt="git5" src="https://user-images.githubusercontent.com/93420193/172604133-27557ac0-eb16-4e1a-ba1a-39ba77003a96.png">
 
-Demo Video :
-
-https://user-images.githubusercontent.com/93420193/172604253-9e07edba-2887-4a23-9c33-84936e3ac02e.mp4
 
 
 
